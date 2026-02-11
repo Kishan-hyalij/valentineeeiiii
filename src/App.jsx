@@ -43,11 +43,11 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok, Lets make love day and night as we have discused Dusk till Dawn Delight 
+            <p>Ok, Lets make love day and night as we have discused Dusk till Dawn Delight
             Love You My Baybee !!!
 
 
-            p.s. if you like my message send me yours some kisses !
+            p.s. if you like my message send me yours some kisses !</p>
           </div>
         </>
       ) : (
