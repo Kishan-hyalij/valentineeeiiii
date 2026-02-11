@@ -45,8 +45,8 @@ export default function Page() {
           <div className="text-4xl md:text-6xl font-bold my-4">
             <p>Ok, Lets make love day and night as we have discused Dusk till Dawn Delight</p>
             <p>Love You My Baybee !!!</p>
-            <p><br></p>
-            <p><br></p>
+            <br>
+            <br>
             <p>p.s. if you like my message send me yours some kisses !</p>
           </div>
         </>
