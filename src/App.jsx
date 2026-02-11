@@ -48,7 +48,6 @@ export default function Page() {
             <p>Love You My Baybee !!!</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
-            <p>&nbsp;</p>
             <p>p.s. if you like my message send me yours some kisses !</p>
           </div>
         </>
